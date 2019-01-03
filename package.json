@@ -1,0 +1,11 @@
+{
+  "name": "material-icon-vue-svgicon",
+  "version": "3.0.1",
+  "description": "Icons from https://google.github.io/material-design-icons/",
+  "main": "index.js",
+  "scripts": {
+    "svg": "vsvg -s ./src/ -t ./dist/ --es6"
+},
+  "author": "piotrek@jakbyco.com",
+  "license": "MIT"
+}
