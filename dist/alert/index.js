@@ -1,13 +1,5 @@
 /* eslint-disable */
 import './add_alert_24px'
-import './add_alert_48px'
-import './error_18px'
 import './error_24px'
-import './error_36px'
-import './error_48px'
 import './error_outline_24px'
-import './error_outline_48px'
-import './warning_18px'
 import './warning_24px'
-import './warning_36px'
-import './warning_48px'
